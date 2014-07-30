@@ -1,7 +1,4 @@
 test file to be added in.
 the second line be added in.
-<<<<<<< HEAD
 the forth line added.
-=======
 add the third line.
->>>>>>> origin/master
